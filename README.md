@@ -2,6 +2,7 @@
 .txt file of my Resume
 
 PAUL FOLEY
+
 paul.foley@shaw.ca
 
 PROFILE SUMMARY
@@ -35,6 +36,7 @@ Developed a computational network of neurons in Python to investigate how hetero
 Attended and led weekly lab meetings, broadening my team and leadership skills.
 
 Was a Teacher’s Assistant for multiple courses, which included grading and additional support for students.
+
 
 BSc. Theoretical Physics, with Honours
 University of Guelph - June 2019
