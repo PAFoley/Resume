@@ -1,5 +1,4 @@
 # Resume
-.txt file of my Resume
 
 PAUL FOLEY
 
