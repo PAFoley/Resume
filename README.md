@@ -2,8 +2,6 @@
 
 PAUL FOLEY
 
-1-250-508-6634
-
 paul.foley@shaw.ca
 
 PROFILE SUMMARY
